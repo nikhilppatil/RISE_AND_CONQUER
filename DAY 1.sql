@@ -4,7 +4,7 @@
 USE rise_and_conquer;
 
 Create table hrms(
-emp_id int primary key,
+emp_id int primary key, /* data types */
 name varchar(255),
 dob date
 );
